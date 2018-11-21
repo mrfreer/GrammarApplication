@@ -48,5 +48,15 @@
         "choice3": "coordinator",
         "definition": "a place of study or training in a special field",
         "sentence": "She spent four years studying violin at the Academy of Music."
+    },
+    {
+        "term": "accurate",
+        "hint": "comes after the verb 'to be' and the adverb 'very'",
+        "answer": "adjective",
+        "choice1": "adverb",
+        "choice2": "noun",
+        "choice3": "verb",
+        "definition": "exactly correct",
+        "sentence": "The weather forecast wasn't very accurate, so we weren't prepared for the rain."
     }
 ]
